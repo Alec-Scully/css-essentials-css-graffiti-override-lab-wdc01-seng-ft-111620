@@ -6,8 +6,7 @@
 }
 
 #wall #tag-2{
-  z-index: 9;
-  display:none;
+  display:none !important;
 }
 
 #wall .ttag-3.slick{
