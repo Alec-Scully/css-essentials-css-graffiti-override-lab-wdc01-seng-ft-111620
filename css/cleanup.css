@@ -6,6 +6,7 @@
 }
 
 #wall #tag-2{
+  z-index: 9;
   display:none;
 }
 
